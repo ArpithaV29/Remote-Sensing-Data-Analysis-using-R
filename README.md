@@ -1,4 +1,4 @@
-# Remote-Sensing-Data-Analysis-Using-R-1st-Year
+# Remote-Sensing-Data-Analysis-Using-R
 ### Images are from MODIS Satellite.
 ### Parameters found are:
 ### Normalized Difference Vegetation Index (NDVI): 
